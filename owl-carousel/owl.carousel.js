@@ -1416,7 +1416,7 @@ if ( typeof Object.create !== "function" ) {
 		rewindNav 				: true,
 		scrollPerPage 			: false,
 
-		pagination 				: true,
+		pagination 				: false,
 		paginationNumbers 		: false,
 
 		responsive 				: true,

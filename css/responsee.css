@@ -141,7 +141,7 @@ ul.chevron .submenu > a:after, ul.chevron .sub-submenu > a:after,ul.chevron .asi
   background:none repeat scroll 0 0 #999;
   color:#fff;
 } 
-@media screen and (min-width:769px) {
+@media screen and (min-width:768px) {
   .aside-nav .count-number {
 	 margin-left:-1.25em;	
 	 float:right;	
@@ -289,9 +289,9 @@ ul.chevron .submenu > a:after, ul.chevron .sub-submenu > a:after,ul.chevron .asi
 .l-11 {width:90%;}
 .l-12 {width:100%;}
 .right {float:right;} 
-@media screen and (max-width:768px) {
-.size-960 {max-width:768px;}
-.size-1140 {max-width:768px;}
+@media screen and (max-width:1043px) {
+.size-960 {max-width:1043px;}
+.size-1140 {max-width:1043px;}
 .hide-l {display:block;}
 .hide-s {display:block;}
 .hide-m {display:none;}
